@@ -1,0 +1,7 @@
+[tools]
+tuist = "latest"
+
+[settings]
+
+experimental = true
+idiomatic_version_file_disable_tools = [ "swift" ]
